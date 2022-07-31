@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohannaMoser
+- 👋 Hi, I’m Johanna or Jona
 - 👀 I’m interested in learning to understand simple code
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on new learning techniques
